@@ -1,6 +1,7 @@
 #PRACTICO 3
 
 ##Punto 1
+
 ###Inciso A
 
 Si, los tiempos son predecibles, aunque no con exactitud.
@@ -25,7 +26,8 @@ distinto de 0 y ademas nos dice el tiempo que tardo en realizar la operacion.
 
 ###Inciso A
 
-
+![Imagen Punto A](github.com/rxdrx/ASO2024TPs/blob/main/TP3/punto2a.png)
 
 ###Inciso B
 
+![Imagen Punto A](github.com/rxdrx/ASO2024TPs/blob/main/TP3/punto2b.png)
