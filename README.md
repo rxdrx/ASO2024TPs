@@ -1,4 +1,4 @@
-#PRACTICO 3
+#TRABAJO PRACTICO 3
 
 ##Punto 1
 
@@ -31,3 +31,15 @@ distinto de 0 y ademas nos dice el tiempo que tardo en realizar la operacion.
 ###Inciso B
 
 ![Imagen Punto A](/TP3/punto2b.png)
+
+
+
+#TRABAJO PRACTICO 5
+
+###Inciso Parte 1
+
+![Imagen Punto 1](/TP5/ejercicio_parte_1.png)
+
+###Inciso Parte 2
+
+![Imagen Punto 7](/TP5/ejercicio_parte_2.png)
