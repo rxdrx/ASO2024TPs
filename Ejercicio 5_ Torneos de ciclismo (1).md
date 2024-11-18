@@ -1,4 +1,4 @@
-\*\*Ejercicio 5: Torneos de ciclismo\*\*
+**Ejercicio 5: Torneos de ciclismo**
 
 \*\*Esquema de BD:\*\*
 
