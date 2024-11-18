@@ -1,8 +1,8 @@
 **Ejercicio 5: Torneos de ciclismo**
 
-\*\*Esquema de BD:\*\*
+**Esquema de BD:**
 
-\`TORNEO\<cod\_torneo, nombre\_torneo, cod\_corredor, cod\_bicicleta, marca\_bicicleta, nyap\_corredor, sponsor, DNI\_presidente\_sponsor, DNI\_medico\>\`
+`TORNEO<cod_torneo, nombre_torneo, cod_corredor, cod_bicicleta, marca_bicicleta, nyap_corredor, sponsor, DNI_presidente_sponsor, DNI_medico>`
 
 \*\*Restricciones:\*\*
 
